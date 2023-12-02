@@ -1,0 +1,6 @@
+
+var WorkArray = ["Core","Arms","Legs","Run"]
+var WorkTxtArray = ["Plank \nSide plank \nV-sit pose \nBicycle crunch \nBridge \nPush-up \nlat row \nSkip with a twist", "Bent over row \nPull ups \nCable rows \nHammer curls \nCable bicep curls","Deadlift \nLeg press \nSeated hamstring curl \nSeated leg extension \nDumbbell lunge \nDumbbell squat.","One mile run"]
+var WorkWeb = ["https://www.gmu.edu","https://www.verywellfit.com/quick-core-workout-routine-3120075","https://www.puregym.com/blog/best-arm-workouts-and-exercises-for-building-strength/","https://www.coachweb.com/workouts/leg-workouts","https://www.verywellfit.com/effective-30-minute-running-workouts-2911891"]
+var imgA = ["core.png","ar.jpeg","legs.jpeg","run.jpeg"]
+var facts = ["Make sure to hydrate","Working out helps your memory","Make sure to keep at it","Working out prevents ageing!","Don't forget to get plenty of sleep!"]
